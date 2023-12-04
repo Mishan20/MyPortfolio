@@ -297,7 +297,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://scontent.fmaa8-1.fna.fbcdn.net/v/t39.30808-6/274594527_487505109530374_7539171532615083991_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=byFeP72r98EAX_AMKU8&_nc_oc=AQkq7nH4A48uNhsfSPoQJHgJ8yDSdEM54ncpjiXlvd1Lsr77j4fxRMYxOfDUkPMDa2U&_nc_ht=scontent.fmaa8-1.fna&oh=00_AfA0tVdja7bp4GwUnwpxlca4FD9xq_zxefCyZyxRE4Rsnw&oe=657234CB",
     school: "Institute of Technology University of Moratuwa",
     date: "Oct 2021 - Feb 2024",
     // grade: "8.71 CGPA",
@@ -306,7 +306,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRasgRxaudPtV9PRiC-yDN_RL_fXuAaGL7sBlleGEuO0g&s",
     school: "N / Poramadulla Central College",
     date: "Jan 2011 - Aug 2019",
     grade: "88.2%",
@@ -315,7 +315,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://cdn.theorg.com/6d315a06-d813-4540-90ac-8cb0c4033fee_medium.jpg",
     school: "Academy of Computer Programming And Training - ACPT",
     date: "Sep 2023 - dec 2023",
     grade: "92.3%",
