@@ -11,7 +11,7 @@ export const Bio = {
   github: "https://github.com/Mishan20",
   resume:
     "https://drive.google.com/file/d/1gNZBr4qzsk_JDVMlBvo7y2YncBcBdBv9/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/ishan-senanayaka-936b44267/",
+  linkedin: "https://www.linkedin.com/in/Mishan20/",
   twitter: "https://twitter.com/Senanayaka38949",
   insta: "https://www.instagram.com/ishan_.ss/",
   facebook: "https://www.facebook.com/profile.php?id=100070423373473",
