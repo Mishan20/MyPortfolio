@@ -10,7 +10,7 @@ export const Bio = {
     "Motivated IT student with a dynamic skill set and proactive learning approach. Adaptable to emerging technologies,driven by a passion for continuous knowledge acquisition and skill development. Seeking to contribute expertise to collaborative project within a forward-thinking team that values adaptability and innovation.",
   github: "https://github.com/Mishan20",
   resume:
-    "https://drive.google.com/file/d/1gNZBr4qzsk_JDVMlBvo7y2YncBcBdBv9/view?usp=sharing",
+    "https://drive.google.com/file/d/1SaAsUfdQr_vZQqyqVaQZdOEPHK1WBbXq/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/Mishan20/",
   twitter: "https://twitter.com/Senanayaka38949",
   insta: "https://www.instagram.com/ishan_.ss/",
