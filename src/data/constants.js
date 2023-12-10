@@ -319,7 +319,7 @@ export const education = [
     school: "Academy of Computer Programming And Training - ACPT",
     date: "Sep 2023 - dec 2023",
     grade: "92.3%",
-    desc: "I completed my Web Development and Mobile Application Development both courses at ACPT.",
+    desc: "I have successfully completed web development and mobile application development courses from AT.",
     degree: "AMAD & APWD",
   },
 ];
